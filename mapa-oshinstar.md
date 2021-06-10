@@ -72,32 +72,29 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-
 - Aplique las permisiones de archivo ejecutable al archivo descargado:
 ```
 sudo chmod +x /usr/local/bin/docker-compose
-
 ```
 
-Generando un Token de acceso personal en GitHub
+### Generando un Token de acceso personal en GitHub
 
-La generación de un token de acceso permite a Docker el acceso al repositorio que contiene la documentación. 
+> La generación de un token de acceso permite a Docker el acceso al repositorio que contiene la documentación. 
 
-Para generar un nuevo token de acceso, visite su perfil de GitHub en   https://github.com/settings/profile. Diríjase al apartado Developer settings y presione el botón Personal Access tokens.
+- Para generar un nuevo token de acceso, dirijase [aqui](https://github.com/settings/tokens)
 
+- Presione el botón de Generate new token e introduzca una nota en el campo Note. Dentro de las permisiones disponibles en la sección de scope marque la opción de write:packages. 
 
+- Presione Generate token en la parte inferior izquierda para generar el nuevo token. Asegurese de copiar el contenido del token generado en un archivo de texto. 
 
-Presione el botón de Generate new token e introduzca una nota en el campo Note. Dentro de las permisiones disponibles en la sección de scope marque la opción de write:packages. 
-
-
-
-Presione Generate token en la parte inferior izquierda para generar el nuevo token. Asegurese de copiar el contenido del token generado en un archivo de texto. 
-
-Levantando el contenedor Docker
+### Levantando el contenedor Docker
 
 Dentro de la carpeta Docs-Backend, copie el archivo de texto con el token de autenticación generado previamente.
 Utilice el comando siguiente para cargar el token de autenticación. Reemplace <TOKEN.txt> con el nombre del archivo que contiene token generado y <USERNAME> con su nombre de usuario de GitHub.
-
+```
 cat <TOKEN.txt> | sudo docker login https://docker.pkg.github.com -u <USERNAME> --password-stdin
-
+```
 Levante el contenedor Docker con el servidor web de la documentación utilizando el comando:
+ ```
 sudo docker-compose up
+```
 
 
 
@@ -108,9 +105,8 @@ sudo docker-compose up
 
 
 
+- Ingresar a la url por defecto http://0.0.0.0:4000/ para revisar la documentación.
 
-Ingresar a la url por defecto http://0.0.0.0:4000/ para revisar la documentación.
-
-Ingresar a la url por defecto http://0.0.0.0:4000/admin/ para cambios y edición la documentación.
+- Ingresar a la url por defecto http://0.0.0.0:4000/admin/ para cambios y edición la documentación.
 
 
