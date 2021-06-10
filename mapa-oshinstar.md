@@ -1,6 +1,6 @@
 <h1> Aplicación OshinStar </h1>
 
-Guía de instalación del paquete de documentación técnica.
+> <u> Guía de instalación del paquete de documentación técnica. </u>
 
 Dirigirse a la documentación pertinente del Frontend o Backend de la aplicación los cuales se encuentran en el Github de la empresa. 
 
