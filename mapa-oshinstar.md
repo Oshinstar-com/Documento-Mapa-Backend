@@ -1,4 +1,4 @@
-Aplicación OshinStar
+<h1> Aplicación OshinStar </h1>
 
 Guía de instalación del paquete de documentación técnica.
 
