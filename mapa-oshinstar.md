@@ -2,9 +2,9 @@
 
 > <u> Guía de instalación del paquete de documentación técnica. </u>
 
-Dirigirse a la documentación pertinente del Frontend o Backend de la aplicación los cuales se encuentran en el Github de la empresa. 
+## Dirigirse a la documentación pertinente del Frontend o Backend de la aplicación los cuales se encuentran en el Github de la empresa. 
 
-https://github.com/Oshinstar-com
+ - 💻  https://github.com/Oshinstar-com
 
 
 Descargando e instalando la Documentación Backend (Docs-Backend):
