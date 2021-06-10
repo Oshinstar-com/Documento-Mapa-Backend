@@ -10,88 +10,70 @@
 Se debe seguir una serie de pasos para el despliegue de la aplicación, esto es usado en su mayoría por y para desarrolladores.
 
 
-> - Con el siguiente comando dentro de la terminal:
+> Con el siguiente comando dentro de la terminal:
 
 ```
+cd Desktop
 git clone https://github.com/Oshinstar-com/Docs-Backend
 ```
 
 En caso de no tener "git" instalado, ejecutar:
 
 ```
-sudo apt updat -y
+sudo apt update -y
 sudo apt install git -y
 ```
 
 
 
 
-Cerciórese de tener las credenciales para el acceso al repositorio de GitHub, puesto que al momento de clonar el repositorio Git le pedirá su username y password. 
-
-Copia la url en la terminal y ejecutas hasta que descargue el paquete en la pc.
+> Cerciórese de tener las credenciales para el acceso al repositorio de GitHub, puesto que al momento de clonar el repositorio Git le pedirá su username y password. 
 
 
 
+- Ya con el paquete descargado se dirige desde la terminal a la carpeta contenedora.
 
+```
+cd  Docs-Backend
+```
 
+### Instalación y configuración de Docker y Docker Compose:
 
+> Visite las URL https://docs.docker.com/engine/install/ubuntu/ y https://docs.docker.com/compose/install/ para obtener las instrucciones más actualizadas sobre cómo instalar Docker y Docker Compose.   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ya con el paquete descargado se dirige desde la terminal a la carpeta contenedora.
-Instalación y configuración de Docker y Docker Compose:
-
-Visite las URL https://docs.docker.com/engine/install/ubuntu/ y https://docs.docker.com/compose/install/ para obtener las instrucciones más actualizadas sobre cómo instalar Docker y Docker Compose.   
-
-a) Instalación de Docker
+ - A) Instalación de Docker
 
 Instale las dependencias necesarias para el uso de repositorios por HTTPS copiando y pegando las siguientes líneas de comando en su terminal:
-
- sudo apt-get install \
-    apt-transport-https \
-    ca-certificates \
-    curl \
-    gnupg \
-    lsb-release
+```
+ sudo apt-get install apt-transport-https ca-certificates curl gnupg lsb-release -y
+ ```
 
 De igual manera, añada la clave GPG de Docker copiando el siguiente comando en su terminal:  
-
+```
  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
-
+```
 Añada el repositorio a las fuentes de APT corriendo el siguiente comando en su terminal:
-
+```
 echo \
   "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
   $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
-Instale Docker:
-
+```
+- Instale Docker:
+```
 sudo apt-get update -y
 sudo apt-get install docker-ce docker-ce-cli containerd.io
-
-b) Instalación de Docker Compose
+```
+- B) Instalación de Docker Compose
 
 En su terminal pegue el siguiente comando para descargar el repositorio de Docker Compose:
-
+```
 sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
-
-Aplique las permisiones de archivo ejecutable al archivo descargado:
-
+```
+- Aplique las permisiones de archivo ejecutable al archivo descargado:
+```
 sudo chmod +x /usr/local/bin/docker-compose
 
-
+```
 
 Generando un Token de acceso personal en GitHub
 
