@@ -4,7 +4,7 @@
 
 ## Dirigirse a la documentación pertinente del Frontend o Backend de la aplicación los cuales se encuentran en el Github de la empresa. 
 
- - 💻  Documentacion(https://github.com/Oshinstar-com)
+ - 💻  Documentacion (https://github.com/Oshinstar-com)
 
 
 Descargando e instalando la Documentación Backend (Docs-Backend):
