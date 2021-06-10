@@ -4,7 +4,7 @@
 
 ## Dirigirse a la documentación pertinente del Frontend o Backend de la aplicación los cuales se encuentran en el Github de la empresa. 
 
- - 💻  [Documentacion](https://github.com/Oshinstar-com)
+ - 💻  [Documentacion](https://github.com/Oshinstar-com/Docs-Backend
 
 
 ### Descargando e instalando la Documentación Backend (Docs-Backend):
@@ -12,27 +12,18 @@
 Se debe seguir una serie de pasos para el despliegue de la aplicación, esto es usado en su mayoría por y para desarrolladores.
 
 
+> - Con el siguiente comando dentro de la terminal:
 
+```
+git clone https://github.com/Oshinstar-com/Docs-Backend
+```
 
+En caso de no tener "git" instalado, ejecutar:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Dentro de esta ventana encontrará una serie de repositorios con el nombre específico de cada componente de la aplicación.
-Para ingresar al codigo o repositorio de Docs-Backend, en el botón verde se desplegarán unas opciones, se copia la url del repositorio. 
-
-
-Con el siguiente comando dentro de la terminal:
+```
+sudo apt updat -y
+sudo apt install git -y
+```
 
 
 
