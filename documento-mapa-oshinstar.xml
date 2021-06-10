@@ -1,0 +1,1452 @@
+<?xml version="1.0"?>
+<root ptr="0x56476c259b90" id="0" symbol="11SwRootFrame" lower="1">
+ <sfxViewShells>
+  <SwView>
+   <SfxViewShell ptr="0x56476a310000" id="1"/>
+   <SwCursorShell>
+    <SwViewShell/>
+    <m_pCurrentCursor>
+     <SwPaM>
+      <point>
+       <SwPosition nNode="166" nContent="0"/>
+      </point>
+     </SwPaM>
+    </m_pCurrentCursor>
+   </SwCursorShell>
+  </SwView>
+ </sfxViewShells>
+ <infos>
+  <bounds left="284" top="284" width="18669" height="85326" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+  <prtBounds left="0" top="0" width="18669" height="85326"/>
+ </infos>
+ <page ptr="0x56476e2883f0" id="1" symbol="11SwPageFrame" next="38" upper="0" lower="2">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="284" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x56476e280610" id="2" symbol="11SwBodyFrame" upper="1" lower="3">
+   <infos>
+    <bounds left="8181" top="1418" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x56476e288a20" id="3" symbol="11SwTextFrame" next="4" upper="2" txtNodeIndex="30" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="1418" width="9638" height="360" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="360"/>
+    </infos>
+Aplicación OshinStar    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3019"/>
+    <Text nLength="20" nType="PortionType::Text" nHeight="360" nWidth="3600" Portion="Aplicaci&#xF3;n OshinStar"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="3020"/>
+    <LineBreak nWidth="9639" Line="Aplicaci&#xF3;n OshinStar"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e287030" id="4" symbol="11SwTextFrame" next="5" prev="3" upper="2" txtNodeIndex="31" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="1778" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e2871a0" id="5" symbol="11SwTextFrame" next="6" prev="4" upper="2" txtNodeIndex="32" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="2058" width="9638" height="320" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="320"/>
+    </infos>
+Guía de instalación del paquete de documentación técnica.    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="259"/>
+    <Text nLength="57" nType="PortionType::Text" nHeight="320" nWidth="9120" Portion="Gu&#xED;a de instalaci&#xF3;n del paquete de documentaci&#xF3;n t&#xE9;cnica."/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="260"/>
+    <LineBreak nWidth="9639" Line="Gu&#xED;a de instalaci&#xF3;n del paquete de documentaci&#xF3;n t&#xE9;cnica."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22cd20" id="6" symbol="11SwTextFrame" next="7" prev="5" upper="2" txtNodeIndex="33" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="2378" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4819"/>
+    <Text nLength="0" nType="PortionType::Text" nHeight="280"/>
+    <Special nLength="0" nType="PortionType::Margin" rText="" nWidth="4820"/>
+    <LineBreak nWidth="9639"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22ce90" id="7" symbol="11SwTextFrame" next="8" prev="6" upper="2" txtNodeIndex="34" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="2658" width="9638" height="560" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="560"/>
+    </infos>
+Dirigirse a la documentación pertinente del Frontend o Backend de la aplicación los cuales se encuentran en el Github de la empresa.     <Text nLength="68" nType="PortionType::Text" nHeight="280" nWidth="9520" Portion="Dirigirse a la documentaci&#xF3;n pertinente del Frontend o Backend de la"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="Dirigirse a la documentaci&#xF3;n pertinente del Frontend o Backend de la "/>
+    <Text nLength="64" nType="PortionType::Lay" nHeight="280" nWidth="8960" Portion="aplicaci&#xF3;n los cuales se encuentran en el Github de la empresa. "/>
+    <LineBreak nWidth="8960" Line="aplicaci&#xF3;n los cuales se encuentran en el Github de la empresa. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22d000" id="8" symbol="11SwTextFrame" next="9" prev="7" upper="2" txtNodeIndex="35" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="3218" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22d170" id="9" symbol="11SwTextFrame" next="10" prev="8" upper="2" txtNodeIndex="36" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="3498" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+https://github.com/Oshinstar-com    <Text nLength="32" nType="PortionType::Para" nHeight="280" nWidth="4503" Portion="https://github.com/Oshinstar-com"/>
+    <LineBreak nWidth="4503" Line="https://github.com/Oshinstar-com"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22d2e0" id="10" symbol="11SwTextFrame" next="11" prev="9" upper="2" txtNodeIndex="37" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="3778" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22d450" id="11" symbol="11SwTextFrame" next="12" prev="10" upper="2" txtNodeIndex="38" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="4058" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22d5c0" id="12" symbol="11SwTextFrame" next="13" prev="11" upper="2" txtNodeIndex="39" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="4338" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+Descargando e instalando la Documentación Backend (Docs-Backend):    <Text nLength="65" nType="PortionType::Para" nHeight="280" nWidth="9100" Portion="Descargando e instalando la Documentaci&#xF3;n Backend (Docs-Backend):"/>
+    <LineBreak nWidth="9100" Line="Descargando e instalando la Documentaci&#xF3;n Backend (Docs-Backend):"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22d730" id="13" symbol="11SwTextFrame" next="14" prev="12" upper="2" txtNodeIndex="40" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="4618" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22d8a0" id="14" symbol="11SwTextFrame" next="15" prev="13" upper="2" txtNodeIndex="41" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="4898" width="9638" height="560" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="560"/>
+    </infos>
+Se debe seguir una serie de pasos para el despliegue de la aplicación, esto es usado en su mayoría por y para desarrolladores.    <Text nLength="58" nType="PortionType::Text" nHeight="280" nWidth="8120" Portion="Se debe seguir una serie de pasos para el despliegue de la"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="Se debe seguir una serie de pasos para el despliegue de la "/>
+    <Text nLength="67" nType="PortionType::Lay" nHeight="280" nWidth="9380" Portion="aplicaci&#xF3;n, esto es usado en su mayor&#xED;a por y para desarrolladores."/>
+    <LineBreak nWidth="9380" Line="aplicaci&#xF3;n, esto es usado en su mayor&#xED;a por y para desarrolladores."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22da10" id="15" symbol="11SwTextFrame" next="16" prev="14" upper="2" txtNodeIndex="42" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="5458" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22db80" id="16" symbol="11SwTextFrame" next="17" prev="15" upper="2" txtNodeIndex="43" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="5738" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22dcf0" id="17" symbol="11SwTextFrame" next="18" prev="16" upper="2" txtNodeIndex="44" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="6018" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x56476ae7cd90" id="156" symbol="19SwFlyAtContentFrame" lower="157">
+      <infos>
+       <bounds left="9764" top="6234" width="6202" height="3733" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="6202" height="3733"/>
+      </infos>
+      <notxt ptr="0x56476e203810" id="157" symbol="13SwNoTextFrame" upper="156">
+       <infos>
+        <bounds left="9764" top="6234" width="6202" height="3733" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="6202" height="3733"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22de60" id="18" symbol="11SwTextFrame" next="19" prev="17" upper="2" txtNodeIndex="45" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="6298" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22dfd0" id="19" symbol="11SwTextFrame" next="20" prev="18" upper="2" txtNodeIndex="46" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="6578" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22e140" id="20" symbol="11SwTextFrame" next="21" prev="19" upper="2" txtNodeIndex="47" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="6858" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22e2b0" id="21" symbol="11SwTextFrame" next="22" prev="20" upper="2" txtNodeIndex="48" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="7138" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22e420" id="22" symbol="11SwTextFrame" next="23" prev="21" upper="2" txtNodeIndex="49" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="7418" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22e590" id="23" symbol="11SwTextFrame" next="24" prev="22" upper="2" txtNodeIndex="50" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="7698" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22e700" id="24" symbol="11SwTextFrame" next="25" prev="23" upper="2" txtNodeIndex="51" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="7978" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22e870" id="25" symbol="11SwTextFrame" next="26" prev="24" upper="2" txtNodeIndex="52" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="8258" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22e9e0" id="26" symbol="11SwTextFrame" next="27" prev="25" upper="2" txtNodeIndex="53" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="8538" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e249b00" id="27" symbol="11SwTextFrame" next="28" prev="26" upper="2" txtNodeIndex="54" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="8818" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e249c70" id="28" symbol="11SwTextFrame" next="29" prev="27" upper="2" txtNodeIndex="55" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="9098" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e249de0" id="29" symbol="11SwTextFrame" next="30" prev="28" upper="2" txtNodeIndex="56" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="9378" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e249f50" id="30" symbol="11SwTextFrame" next="31" prev="29" upper="2" txtNodeIndex="57" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="9658" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e24a0c0" id="31" symbol="11SwTextFrame" next="32" prev="30" upper="2" txtNodeIndex="58" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="9938" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e24a230" id="32" symbol="11SwTextFrame" next="33" prev="31" upper="2" txtNodeIndex="59" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="10218" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e24a3a0" id="33" symbol="11SwTextFrame" next="34" prev="32" upper="2" txtNodeIndex="60" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="10498" width="9638" height="560" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="560"/>
+    </infos>
+Dentro de esta ventana encontrará una serie de repositorios con el nombre específico de cada componente de la aplicación.    <Text nLength="66" nType="PortionType::Text" nHeight="280" nWidth="9240" Portion="Dentro de esta ventana encontrar&#xE1; una serie de repositorios con el"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="Dentro de esta ventana encontrar&#xE1; una serie de repositorios con el "/>
+    <Text nLength="54" nType="PortionType::Lay" nHeight="280" nWidth="7560" Portion="nombre espec&#xED;fico de cada componente de la aplicaci&#xF3;n."/>
+    <LineBreak nWidth="7560" Line="nombre espec&#xED;fico de cada componente de la aplicaci&#xF3;n."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e24a510" id="34" symbol="11SwTextFrame" next="35" prev="33" upper="2" txtNodeIndex="61" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="11058" width="9638" height="560" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="560"/>
+    </infos>
+Para ingresar al codigo o repositorio de Docs-Backend, en el botón verde se desplegarán unas opciones, se copia la url del repositorio.     <Text nLength="66" nType="PortionType::Text" nHeight="280" nWidth="9240" Portion="Para ingresar al codigo o repositorio de Docs-Backend, en el bot&#xF3;n"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="Para ingresar al codigo o repositorio de Docs-Backend, en el bot&#xF3;n "/>
+    <Text nLength="68" nType="PortionType::Text" nHeight="280" nWidth="9520" Portion="verde se desplegar&#xE1;n unas opciones, se copia la url del repositorio."/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <LineBreak nWidth="9520" Line="verde se desplegar&#xE1;n unas opciones, se copia la url del repositorio. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e24a680" id="35" symbol="11SwTextFrame" next="36" prev="34" upper="2" txtNodeIndex="62" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="11618" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e24a7f0" id="36" symbol="11SwTextFrame" prev="35" upper="2" txtNodeIndex="63" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="11898" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x56476cc3ca60" id="158" symbol="19SwFlyAtContentFrame" lower="159">
+      <infos>
+       <bounds left="9607" top="12050" width="6775" height="4115" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="6775" height="4115"/>
+      </infos>
+      <notxt ptr="0x56476e1879d0" id="159" symbol="13SwNoTextFrame" upper="158">
+       <infos>
+        <bounds left="9607" top="12050" width="6775" height="4115" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="6775" height="4115"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8201"/>
+    <LineBreak nWidth="8201"/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x56476e24aad0" id="38" symbol="11SwPageFrame" next="71" prev="1" upper="0" lower="39">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="17406" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x56476e2803f0" id="39" symbol="11SwBodyFrame" upper="38" lower="37">
+   <infos>
+    <bounds left="8181" top="18540" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x56476e24a960" id="37" symbol="11SwTextFrame" next="40" upper="39" txtNodeIndex="64" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="18540" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+Con el siguiente comando dentro de la terminal:    <Text nLength="47" nType="PortionType::Para" nHeight="280" nWidth="6580" Portion="Con el siguiente comando dentro de la terminal:"/>
+    <LineBreak nWidth="6580" Line="Con el siguiente comando dentro de la terminal:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e24ae80" id="40" symbol="11SwTextFrame" next="41" prev="37" upper="39" txtNodeIndex="65" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="18820" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x56476e2be320" id="160" symbol="19SwFlyAtContentFrame" lower="161">
+      <infos>
+       <bounds left="8855" top="19240" width="7858" height="4609" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="7858" height="4609"/>
+      </infos>
+      <notxt ptr="0x7f573c02c6a0" id="161" symbol="13SwNoTextFrame" upper="160">
+       <infos>
+        <bounds left="8855" top="19240" width="7858" height="4609" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="7858" height="4609"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e24aff0" id="41" symbol="11SwTextFrame" next="42" prev="40" upper="39" txtNodeIndex="66" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="19100" width="9638" height="5029" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="5029"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="4749" nWidth="9638"/>
+    <LineBreak nWidth="9638"/>
+    <Text nLength="0" nType="PortionType::Lay" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e24b160" id="42" symbol="11SwTextFrame" next="43" prev="41" upper="39" txtNodeIndex="67" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="24129" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e24b2d0" id="43" symbol="11SwTextFrame" next="44" prev="42" upper="39" txtNodeIndex="68" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="24409" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e24b440" id="44" symbol="11SwTextFrame" next="45" prev="43" upper="39" txtNodeIndex="69" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="24689" width="9638" height="840" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="840"/>
+    </infos>
+Cerciórese de tener las credenciales para el acceso al repositorio de GitHub, puesto que al momento de clonar el repositorio Git le pedirá su username y password.     <Text nLength="67" nType="PortionType::Para" nHeight="280" nWidth="9380" Portion="Cerci&#xF3;rese de tener las credenciales para el acceso al repositorio "/>
+    <LineBreak nWidth="9380" Line="Cerci&#xF3;rese de tener las credenciales para el acceso al repositorio "/>
+    <Text nLength="65" nType="PortionType::Lay" nHeight="280" nWidth="9100" Portion="de GitHub, puesto que al momento de clonar el repositorio Git le "/>
+    <LineBreak nWidth="9100" Line="de GitHub, puesto que al momento de clonar el repositorio Git le "/>
+    <Text nLength="30" nType="PortionType::Text" nHeight="280" nWidth="4200" Portion="pedir&#xE1; su username y password."/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="280" nWidth="140" Portion=" "/>
+    <LineBreak nWidth="4340" Line="pedir&#xE1; su username y password. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e24b5b0" id="45" symbol="11SwTextFrame" next="46" prev="44" upper="39" txtNodeIndex="70" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="25529" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e24b720" id="46" symbol="11SwTextFrame" next="47" prev="45" upper="39" txtNodeIndex="71" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="25809" width="9638" height="560" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="560"/>
+    </infos>
+Copia la url en la terminal y ejecutas hasta que descargue el paquete en la pc.    <Text nLength="62" nType="PortionType::Para" nHeight="280" nWidth="8680" Portion="Copia la url en la terminal y ejecutas hasta que descargue el "/>
+    <LineBreak nWidth="8680" Line="Copia la url en la terminal y ejecutas hasta que descargue el "/>
+    <Text nLength="17" nType="PortionType::Lay" nHeight="280" nWidth="2380" Portion="paquete en la pc."/>
+    <LineBreak nWidth="2380" Line="paquete en la pc."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e24b890" id="47" symbol="11SwTextFrame" next="48" prev="46" upper="39" txtNodeIndex="72" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="26369" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fc9a0" id="48" symbol="11SwTextFrame" next="49" prev="47" upper="39" txtNodeIndex="73" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="26649" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x56476e2be520" id="162" symbol="19SwFlyAtContentFrame" lower="163">
+      <infos>
+       <bounds left="8582" top="26761" width="8055" height="4950" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="8055" height="4950"/>
+      </infos>
+      <notxt ptr="0x7f573c02c120" id="163" symbol="13SwNoTextFrame" upper="162">
+       <infos>
+        <bounds left="8582" top="26761" width="8055" height="4950" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="8055" height="4950"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fcb10" id="49" symbol="11SwTextFrame" next="50" prev="48" upper="39" txtNodeIndex="74" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="26929" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fcc80" id="50" symbol="11SwTextFrame" next="51" prev="49" upper="39" txtNodeIndex="75" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="27209" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fcdf0" id="51" symbol="11SwTextFrame" next="52" prev="50" upper="39" txtNodeIndex="76" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="27489" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fcf60" id="52" symbol="11SwTextFrame" next="53" prev="51" upper="39" txtNodeIndex="77" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="27769" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fd0d0" id="53" symbol="11SwTextFrame" next="54" prev="52" upper="39" txtNodeIndex="78" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="28049" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fd240" id="54" symbol="11SwTextFrame" next="55" prev="53" upper="39" txtNodeIndex="79" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="28329" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fd3b0" id="55" symbol="11SwTextFrame" next="56" prev="54" upper="39" txtNodeIndex="80" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="28609" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fd520" id="56" symbol="11SwTextFrame" next="57" prev="55" upper="39" txtNodeIndex="81" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="28889" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fd690" id="57" symbol="11SwTextFrame" next="58" prev="56" upper="39" txtNodeIndex="82" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="29169" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fd800" id="58" symbol="11SwTextFrame" next="59" prev="57" upper="39" txtNodeIndex="83" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="29449" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fd970" id="59" symbol="11SwTextFrame" next="60" prev="58" upper="39" txtNodeIndex="84" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="29729" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fdae0" id="60" symbol="11SwTextFrame" next="61" prev="59" upper="39" txtNodeIndex="85" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="30009" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fdc50" id="61" symbol="11SwTextFrame" next="62" prev="60" upper="39" txtNodeIndex="86" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="30289" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fddc0" id="62" symbol="11SwTextFrame" next="63" prev="61" upper="39" txtNodeIndex="87" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="30569" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fdf30" id="63" symbol="11SwTextFrame" next="64" prev="62" upper="39" txtNodeIndex="88" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="30849" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fe0a0" id="64" symbol="11SwTextFrame" next="65" prev="63" upper="39" txtNodeIndex="89" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="31129" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fe210" id="65" symbol="11SwTextFrame" next="66" prev="64" upper="39" txtNodeIndex="90" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="31409" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fe380" id="66" symbol="11SwTextFrame" next="67" prev="65" upper="39" txtNodeIndex="91" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="31689" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="280" nWidth="8456"/>
+    <LineBreak nWidth="8456"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fe4f0" id="67" symbol="11SwTextFrame" next="68" prev="66" upper="39" txtNodeIndex="92" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="31969" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fe660" id="68" symbol="11SwTextFrame" next="69" prev="67" upper="39" txtNodeIndex="93" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="32249" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1fe7d0" id="69" symbol="11SwTextFrame" prev="68" upper="39" txtNodeIndex="94" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="32529" width="9638" height="560" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="560"/>
+    </infos>
+Ya con el paquete descargado se dirige desde la terminal a la carpeta contenedora.    <Text nLength="62" nType="PortionType::Para" nHeight="280" nWidth="8680" Portion="Ya con el paquete descargado se dirige desde la terminal a la "/>
+    <LineBreak nWidth="8680" Line="Ya con el paquete descargado se dirige desde la terminal a la "/>
+    <Text nLength="20" nType="PortionType::Lay" nHeight="280" nWidth="2800" Portion="carpeta contenedora."/>
+    <LineBreak nWidth="2800" Line="carpeta contenedora."/>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x56476e1feab0" id="71" symbol="11SwPageFrame" next="111" prev="38" upper="0" lower="72">
+  <page_status ValidFlyLayout="false" ValidFlyContent="false" ValidFlyInCnt="false" ValidLayout="false" ValidContent="false"/>
+  <infos>
+   <bounds left="7047" top="34528" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x56476e2813d0" id="72" symbol="11SwBodyFrame" upper="71" lower="70">
+   <infos>
+    <bounds left="8181" top="35662" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x56476e1fe940" id="70" symbol="11SwTextFrame" next="73" upper="72" txtNodeIndex="95" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="35662" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+Instalación y configuración de Docker y Docker Compose:    <Text nLength="55" nType="PortionType::Para" nHeight="280" nWidth="7700" Portion="Instalaci&#xF3;n y configuraci&#xF3;n de Docker y Docker Compose:"/>
+    <LineBreak nWidth="7700" Line="Instalaci&#xF3;n y configuraci&#xF3;n de Docker y Docker Compose:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1feea0" id="73" symbol="11SwTextFrame" next="74" prev="70" upper="72" txtNodeIndex="96" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="35942" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1ff010" id="74" symbol="11SwTextFrame" next="75" prev="73" upper="72" txtNodeIndex="97" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="36222" width="9638" height="1120" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="1120"/>
+    </infos>
+Visite las URL https://docs.docker.com/engine/install/ubuntu/ y https://docs.docker.com/compose/install/ para obtener las instrucciones más actualizadas sobre cómo instalar Docker y Docker Compose.       <Finish/>
+   </txt>
+   <txt ptr="0x56476e1ff180" id="75" symbol="11SwTextFrame" next="76" prev="74" upper="72" txtNodeIndex="98" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="37342" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1ff2f0" id="76" symbol="11SwTextFrame" next="77" prev="75" upper="72" txtNodeIndex="99" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="37622" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+a) Instalación de Docker    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1ff460" id="77" symbol="11SwTextFrame" next="78" prev="76" upper="72" txtNodeIndex="100" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="37902" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1ff5d0" id="78" symbol="11SwTextFrame" next="79" prev="77" upper="72" txtNodeIndex="101" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="38182" width="9638" height="840" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="840"/>
+    </infos>
+Instale las dependencias necesarias para el uso de repositorios por HTTPS copiando y pegando las siguientes líneas de comando en su terminal:    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1ff740" id="79" symbol="11SwTextFrame" next="80" prev="78" upper="72" txtNodeIndex="102" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="39022" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1ff8b0" id="80" symbol="11SwTextFrame" next="81" prev="79" upper="72" txtNodeIndex="103" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="39302" width="9638" height="317" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="317"/>
+    </infos>
+ sudo apt-get install \    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1ffa20" id="81" symbol="11SwTextFrame" next="82" prev="80" upper="72" txtNodeIndex="104" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="39619" width="9638" height="241" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="241"/>
+    </infos>
+    apt-transport-https \    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1ffb90" id="82" symbol="11SwTextFrame" next="83" prev="81" upper="72" txtNodeIndex="105" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="39860" width="9638" height="342" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="101" width="9638" height="241"/>
+    </infos>
+    ca-certificates \    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1ffd00" id="83" symbol="11SwTextFrame" next="84" prev="82" upper="72" txtNodeIndex="106" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="40202" width="9638" height="342" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="101" width="9638" height="241"/>
+    </infos>
+    curl \    <Finish/>
+   </txt>
+   <txt ptr="0x56476e1ffe70" id="84" symbol="11SwTextFrame" next="85" prev="83" upper="72" txtNodeIndex="107" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="40544" width="9638" height="342" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="101" width="9638" height="241"/>
+    </infos>
+    gnupg \    <Finish/>
+   </txt>
+   <txt ptr="0x56476e238710" id="85" symbol="11SwTextFrame" next="86" prev="84" upper="72" txtNodeIndex="108" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="40886" width="9638" height="342" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="101" width="9638" height="241"/>
+    </infos>
+    lsb-release    <Finish/>
+   </txt>
+   <txt ptr="0x56476e238880" id="86" symbol="11SwTextFrame" next="87" prev="85" upper="72" txtNodeIndex="109" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="41228" width="9638" height="381" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="101" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e2389f0" id="87" symbol="11SwTextFrame" next="88" prev="86" upper="72" txtNodeIndex="110" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="41609" width="9638" height="560" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="560"/>
+    </infos>
+De igual manera, añada la clave GPG de Docker copiando el siguiente comando en su terminal:      <Finish/>
+   </txt>
+   <txt ptr="0x56476e238b60" id="88" symbol="11SwTextFrame" next="89" prev="87" upper="72" txtNodeIndex="111" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="42169" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e238cd0" id="89" symbol="11SwTextFrame" next="90" prev="88" upper="72" txtNodeIndex="112" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="42449" width="9638" height="454" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="454"/>
+    </infos>
+ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg    <Finish/>
+   </txt>
+   <txt ptr="0x56476e238e40" id="90" symbol="11SwTextFrame" next="91" prev="89" upper="72" txtNodeIndex="113" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="42903" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e238fb0" id="91" symbol="11SwTextFrame" next="92" prev="90" upper="72" txtNodeIndex="114" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="43183" width="9638" height="560" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="560"/>
+    </infos>
+Añada el repositorio a las fuentes de APT corriendo el siguiente comando en su terminal:    <Finish/>
+   </txt>
+   <txt ptr="0x56476e239120" id="92" symbol="11SwTextFrame" next="93" prev="91" upper="72" txtNodeIndex="115" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="43743" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e239290" id="93" symbol="11SwTextFrame" next="94" prev="92" upper="72" txtNodeIndex="116" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="44023" width="9638" height="227" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="227"/>
+    </infos>
+echo \    <Finish/>
+   </txt>
+   <txt ptr="0x56476e239400" id="94" symbol="11SwTextFrame" next="95" prev="93" upper="72" txtNodeIndex="117" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="44250" width="9638" height="563" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="563"/>
+    </infos>
+  &quot;deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \    <Finish/>
+   </txt>
+   <txt ptr="0x56476e239570" id="95" symbol="11SwTextFrame" next="96" prev="94" upper="72" txtNodeIndex="118" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="44813" width="9638" height="486" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="245" width="9638" height="241"/>
+    </infos>
+  $(lsb_release -cs) stable&quot; | sudo tee /etc/apt/sources.list.d/docker.list &gt; /dev/null    <Finish/>
+   </txt>
+   <txt ptr="0x56476e2396e0" id="96" symbol="11SwTextFrame" next="97" prev="95" upper="72" txtNodeIndex="119" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="45299" width="9638" height="531" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="251" width="9638" height="280"/>
+    </infos>
+Instale Docker:    <Finish/>
+   </txt>
+   <txt ptr="0x56476e239850" id="97" symbol="11SwTextFrame" next="98" prev="96" upper="72" txtNodeIndex="120" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="45830" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e2399c0" id="98" symbol="11SwTextFrame" next="171" prev="97" upper="72" txtNodeIndex="121" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="46110" width="9638" height="227" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="227"/>
+    </infos>
+sudo apt-get update -y    <Finish/>
+   </txt>
+   <txt ptr="0x56476e3d3920" id="171" symbol="11SwTextFrame" next="170" prev="98" upper="72" txtNodeIndex="122" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="46337" width="9638" height="227" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="227"/>
+    </infos>
+sudo apt-get install docker-ce docker-ce-cli containerd.io    <Finish/>
+   </txt>
+   <txt ptr="0x56476e2e2000" id="170" symbol="11SwTextFrame" next="100" prev="171" upper="72" txtNodeIndex="123" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="46564" width="9638" height="227" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="227"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e239ca0" id="100" symbol="11SwTextFrame" next="101" prev="170" upper="72" txtNodeIndex="124" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="46791" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+b) Instalación de Docker Compose    <Finish/>
+   </txt>
+   <txt ptr="0x56476e239e10" id="101" symbol="11SwTextFrame" next="102" prev="100" upper="72" txtNodeIndex="125" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="47071" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e239f80" id="102" symbol="11SwTextFrame" next="103" prev="101" upper="72" txtNodeIndex="126" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="47351" width="9638" height="560" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="560"/>
+    </infos>
+En su terminal pegue el siguiente comando para descargar el repositorio de Docker Compose:    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23a0f0" id="103" symbol="11SwTextFrame" next="104" prev="102" upper="72" txtNodeIndex="127" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="47911" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23a260" id="104" symbol="11SwTextFrame" next="105" prev="103" upper="72" txtNodeIndex="128" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="48191" width="9638" height="454" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="454"/>
+    </infos>
+sudo curl -L &quot;https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)&quot; -o /usr/local/bin/docker-compose    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23a3d0" id="105" symbol="11SwTextFrame" next="106" prev="104" upper="72" txtNodeIndex="129" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="48645" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23a540" id="106" symbol="11SwTextFrame" next="107" prev="105" upper="72" txtNodeIndex="130" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="48925" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+Aplique las permisiones de archivo ejecutable al archivo descargado:    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23a6b0" id="107" symbol="11SwTextFrame" next="108" prev="106" upper="72" txtNodeIndex="131" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="49205" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23a820" id="108" symbol="11SwTextFrame" next="109" prev="107" upper="72" txtNodeIndex="132" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="49485" width="9638" height="227" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="227"/>
+    </infos>
+sudo chmod +x /usr/local/bin/docker-compose    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23a990" id="109" symbol="11SwTextFrame" prev="108" upper="72" txtNodeIndex="133" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="49712" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="false" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x56476e23ac70" id="111" symbol="11SwPageFrame" next="127" prev="71" upper="0" lower="112">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="51650" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x56476e280d60" id="112" symbol="11SwBodyFrame" upper="111" lower="110">
+   <infos>
+    <bounds left="8181" top="52784" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x56476e23ab00" id="110" symbol="11SwTextFrame" next="113" upper="112" txtNodeIndex="134" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="52784" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23adf0" id="113" symbol="11SwTextFrame" next="114" prev="110" upper="112" txtNodeIndex="135" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="53064" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23af60" id="114" symbol="11SwTextFrame" next="115" prev="113" upper="112" txtNodeIndex="136" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="53344" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+Generando un Token de acceso personal en GitHub    <Text nLength="47" nType="PortionType::Para" nHeight="280" nWidth="6580" Portion="Generando un Token de acceso personal en GitHub"/>
+    <LineBreak nWidth="6580" Line="Generando un Token de acceso personal en GitHub"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23b0d0" id="115" symbol="11SwTextFrame" next="116" prev="114" upper="112" txtNodeIndex="137" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="53624" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23b240" id="116" symbol="11SwTextFrame" next="117" prev="115" upper="112" txtNodeIndex="138" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="53904" width="9638" height="560" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="560"/>
+    </infos>
+La generación de un token de acceso permite a Docker el acceso al repositorio que contiene la documentación.     <Text nLength="66" nType="PortionType::Para" nHeight="280" nWidth="9240" Portion="La generaci&#xF3;n de un token de acceso permite a Docker el acceso al "/>
+    <LineBreak nWidth="9240" Line="La generaci&#xF3;n de un token de acceso permite a Docker el acceso al "/>
+    <Text nLength="43" nType="PortionType::Lay" nHeight="280" nWidth="6020" Portion="repositorio que contiene la documentaci&#xF3;n. "/>
+    <LineBreak nWidth="6020" Line="repositorio que contiene la documentaci&#xF3;n. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23b3b0" id="117" symbol="11SwTextFrame" next="118" prev="116" upper="112" txtNodeIndex="139" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="54464" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23b520" id="118" symbol="11SwTextFrame" next="119" prev="117" upper="112" txtNodeIndex="140" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="54744" width="9638" height="840" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="840"/>
+    </infos>
+Para generar un nuevo token de acceso, visite su perfil de GitHub en   https://github.com/settings/profile. Diríjase al apartado Developer settings y presione el botón Personal Access tokens.    <Text nLength="68" nType="PortionType::Text" nHeight="280" nWidth="9520" Portion="Para generar un nuevo token de acceso, visite su perfil de GitHub en"/>
+    <Text nLength="3" nType="PortionType::Hole" Portion="   "/>
+    <LineBreak nWidth="9520" Line="Para generar un nuevo token de acceso, visite su perfil de GitHub en   "/>
+    <Text nLength="35" nType="PortionType::Text" nHeight="280" nWidth="4900" Portion="https://github.com/settings/profile"/>
+    <Text nLength="33" nType="PortionType::Text" nHeight="280" nWidth="4620" Portion=". Dir&#xED;jase al apartado Developer "/>
+    <LineBreak nWidth="9520" Line="https://github.com/settings/profile. Dir&#xED;jase al apartado Developer "/>
+    <Text nLength="52" nType="PortionType::Lay" nHeight="280" nWidth="7280" Portion="settings y presione el bot&#xF3;n Personal Access tokens."/>
+    <LineBreak nWidth="7280" Line="settings y presione el bot&#xF3;n Personal Access tokens."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23b690" id="119" symbol="11SwTextFrame" next="120" prev="118" upper="112" txtNodeIndex="141" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="55584" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23b800" id="120" symbol="11SwTextFrame" next="121" prev="119" upper="112" txtNodeIndex="142" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="55864" width="9638" height="5146" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="5146"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x56476e209600" id="164" symbol="19SwFlyAtContentFrame" lower="165">
+      <infos>
+       <bounds left="8181" top="55864" width="9638" height="4866" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="9638" height="4866"/>
+      </infos>
+      <notxt ptr="0x7f573c061840" id="165" symbol="13SwNoTextFrame" upper="164">
+       <infos>
+        <bounds left="8181" top="55864" width="9638" height="4866" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="9638" height="4866"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="4866" nWidth="9638"/>
+    <LineBreak nWidth="9638"/>
+    <Text nLength="0" nType="PortionType::Lay" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23b970" id="121" symbol="11SwTextFrame" next="122" prev="120" upper="112" txtNodeIndex="143" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="61010" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23bae0" id="122" symbol="11SwTextFrame" next="123" prev="121" upper="112" txtNodeIndex="144" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="61290" width="9638" height="840" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="840"/>
+    </infos>
+Presione el botón de Generate new token e introduzca una nota en el campo Note. Dentro de las permisiones disponibles en la sección de scope marque la opción de write:packages.     <Text nLength="68" nType="PortionType::Para" nHeight="280" nWidth="9520" Portion="Presione el bot&#xF3;n de Generate new token e introduzca una nota en el "/>
+    <LineBreak nWidth="9520" Line="Presione el bot&#xF3;n de Generate new token e introduzca una nota en el "/>
+    <Text nLength="67" nType="PortionType::Lay" nHeight="280" nWidth="9380" Portion="campo Note. Dentro de las permisiones disponibles en la secci&#xF3;n de "/>
+    <LineBreak nWidth="9380" Line="campo Note. Dentro de las permisiones disponibles en la secci&#xF3;n de "/>
+    <Text nLength="42" nType="PortionType::Lay" nHeight="280" nWidth="5880" Portion="scope marque la opci&#xF3;n de write:packages. "/>
+    <LineBreak nWidth="5880" Line="scope marque la opci&#xF3;n de write:packages. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e23bc50" id="123" symbol="11SwTextFrame" next="124" prev="122" upper="112" txtNodeIndex="145" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="62130" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e229220" id="124" symbol="11SwTextFrame" next="125" prev="123" upper="112" txtNodeIndex="146" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="62410" width="9638" height="4549" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="4549"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x56476e2ccb70" id="166" symbol="19SwFlyAtContentFrame" lower="167">
+      <infos>
+       <bounds left="8596" top="62410" width="8809" height="4269" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="8809" height="4269"/>
+      </infos>
+      <notxt ptr="0x56476e196e20" id="167" symbol="13SwNoTextFrame" upper="166">
+       <infos>
+        <bounds left="8596" top="62410" width="8809" height="4269" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="8809" height="4269"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+    <Special nLength="0" nType="PortionType::Fly" rText="" nHeight="4269" nWidth="9638"/>
+    <LineBreak nWidth="9638"/>
+    <Text nLength="0" nType="PortionType::Lay" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e229390" id="125" symbol="11SwTextFrame" prev="124" upper="112" txtNodeIndex="147" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="66959" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+ <page ptr="0x56476e229670" id="127" symbol="11SwPageFrame" prev="111" upper="0" lower="128">
+  <page_status ValidFlyLayout="true" ValidFlyContent="true" ValidFlyInCnt="true" ValidLayout="true" ValidContent="true"/>
+  <infos>
+   <bounds left="7047" top="68772" width="11906" height="16838" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+   <prtBounds left="1134" top="1134" width="9638" height="14570"/>
+  </infos>
+  <body ptr="0x56476e28fec0" id="128" symbol="11SwBodyFrame" upper="127" lower="126">
+   <infos>
+    <bounds left="8181" top="69906" width="9638" height="14570" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+    <prtBounds left="0" top="0" width="9638" height="14570"/>
+   </infos>
+   <txt ptr="0x56476e229500" id="126" symbol="11SwTextFrame" next="129" upper="128" txtNodeIndex="148" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="69906" width="9638" height="840" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="840"/>
+    </infos>
+Presione Generate token en la parte inferior izquierda para generar el nuevo token. Asegurese de copiar el contenido del token generado en un archivo de texto.     <Text nLength="68" nType="PortionType::Para" nHeight="280" nWidth="9520" Portion="Presione Generate token en la parte inferior izquierda para generar "/>
+    <LineBreak nWidth="9520" Line="Presione Generate token en la parte inferior izquierda para generar "/>
+    <Text nLength="68" nType="PortionType::Lay" nHeight="280" nWidth="9520" Portion="el nuevo token. Asegurese de copiar el contenido del token generado "/>
+    <LineBreak nWidth="9520" Line="el nuevo token. Asegurese de copiar el contenido del token generado "/>
+    <Text nLength="24" nType="PortionType::Lay" nHeight="280" nWidth="3360" Portion="en un archivo de texto. "/>
+    <LineBreak nWidth="3360" Line="en un archivo de texto. "/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e229900" id="129" symbol="11SwTextFrame" next="130" prev="126" upper="128" txtNodeIndex="149" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="70746" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e229a70" id="130" symbol="11SwTextFrame" next="131" prev="129" upper="128" txtNodeIndex="150" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="71026" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+Levantando el contenedor Docker    <Text nLength="31" nType="PortionType::Para" nHeight="280" nWidth="4340" Portion="Levantando el contenedor Docker"/>
+    <LineBreak nWidth="4340" Line="Levantando el contenedor Docker"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e229be0" id="131" symbol="11SwTextFrame" next="132" prev="130" upper="128" txtNodeIndex="151" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="71306" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e229d50" id="132" symbol="11SwTextFrame" next="133" prev="131" upper="128" txtNodeIndex="152" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="71586" width="9638" height="784" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9638" height="602"/>
+    </infos>
+Dentro de la carpeta Docs-Backend, copie el archivo de texto con el token de autenticación generado previamente.    <Text nLength="67" nType="PortionType::Text" nHeight="280" nWidth="9380" Portion="Dentro de la carpeta Docs-Backend, copie el archivo de texto con el"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="Dentro de la carpeta Docs-Backend, copie el archivo de texto con el "/>
+    <Text nLength="44" nType="PortionType::Lay" nHeight="280" nWidth="6160" Portion="token de autenticaci&#xF3;n generado previamente."/>
+    <LineBreak nWidth="6160" Line="token de autenticaci&#xF3;n generado previamente."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e229ec0" id="133" symbol="11SwTextFrame" next="134" prev="132" upper="128" txtNodeIndex="153" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="72370" width="9638" height="1106" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9638" height="924"/>
+    </infos>
+Utilice el comando siguiente para cargar el token de autenticación. Reemplace &lt;TOKEN.txt&gt; con el nombre del archivo que contiene token generado y &lt;USERNAME&gt; con su nombre de usuario de GitHub.    <Text nLength="67" nType="PortionType::Text" nHeight="280" nWidth="9380" Portion="Utilice el comando siguiente para cargar el token de autenticaci&#xF3;n."/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="Utilice el comando siguiente para cargar el token de autenticaci&#xF3;n. "/>
+    <Text nLength="66" nType="PortionType::Text" nHeight="280" nWidth="9240" Portion="Reemplace &lt;TOKEN.txt&gt; con el nombre del archivo que contiene token"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="Reemplace &lt;TOKEN.txt&gt; con el nombre del archivo que contiene token "/>
+    <Text nLength="57" nType="PortionType::Lay" nHeight="280" nWidth="7980" Portion="generado y &lt;USERNAME&gt; con su nombre de usuario de GitHub."/>
+    <LineBreak nWidth="7980" Line="generado y &lt;USERNAME&gt; con su nombre de usuario de GitHub."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22a030" id="134" symbol="11SwTextFrame" next="135" prev="133" upper="128" txtNodeIndex="154" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="73476" width="9638" height="409" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9638" height="227"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="227"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22a1a0" id="135" symbol="11SwTextFrame" next="136" prev="134" upper="128" txtNodeIndex="155" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="73885" width="9638" height="544" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="544"/>
+    </infos>
+cat &lt;TOKEN.txt&gt; | sudo docker login https://docker.pkg.github.com -u &lt;USERNAME&gt; --password-stdin    <Text nLength="3" nType="PortionType::Text" nHeight="227" nWidth="303" Portion="cat"/>
+    <Text nLength="1" nType="PortionType::Text" nHeight="227" nWidth="62" Portion=" "/>
+    <Text nLength="32" nType="PortionType::Text" nHeight="227" nWidth="3302" Portion="&lt;TOKEN.txt&gt; | sudo docker login "/>
+    <Text nLength="29" nType="PortionType::Text" nHeight="317" nWidth="4872" Portion="https://docker.pkg.github.com"/>
+    <Text nLength="3" nType="PortionType::Text" nHeight="227" nWidth="256" Portion=" -u"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="cat &lt;TOKEN.txt&gt; | sudo docker login https://docker.pkg.github.com -u "/>
+    <Text nLength="27" nType="PortionType::Lay" nHeight="227" nWidth="3101" Portion="&lt;USERNAME&gt; --password-stdin"/>
+    <LineBreak nWidth="3101" Line="&lt;USERNAME&gt; --password-stdin"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22a310" id="136" symbol="11SwTextFrame" next="137" prev="135" upper="128" txtNodeIndex="156" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="74429" width="9638" height="320" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="320"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="320"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22a480" id="137" symbol="11SwTextFrame" next="138" prev="136" upper="128" txtNodeIndex="157" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="74749" width="9638" height="790" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="188" width="9638" height="602"/>
+    </infos>
+Levante el contenedor Docker con el servidor web de la documentación utilizando el comando:    <Text nLength="68" nType="PortionType::Text" nHeight="280" nWidth="9520" Portion="Levante el contenedor Docker con el servidor web de la documentaci&#xF3;n"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="Levante el contenedor Docker con el servidor web de la documentaci&#xF3;n "/>
+    <Text nLength="22" nType="PortionType::Lay" nHeight="280" nWidth="3080" Portion="utilizando el comando:"/>
+    <LineBreak nWidth="3080" Line="utilizando el comando:"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22a5f0" id="138" symbol="11SwTextFrame" next="139" prev="137" upper="128" txtNodeIndex="158" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="75539" width="9638" height="409" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="182" width="9638" height="227"/>
+    </infos>
+sudo docker-compose up    <Text nLength="5" nType="PortionType::Text" nHeight="227" nWidth="531" Portion="sudo "/>
+    <Text nLength="17" nType="PortionType::Text" nHeight="227" nWidth="1905" Portion="docker-compose up"/>
+    <LineBreak nWidth="2436" Line="sudo docker-compose up"/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22a760" id="139" symbol="11SwTextFrame" next="140" prev="138" upper="128" txtNodeIndex="159" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="75948" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22a8d0" id="140" symbol="11SwTextFrame" next="141" prev="139" upper="128" txtNodeIndex="160" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="76228" width="9638" height="461" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22aa40" id="141" symbol="11SwTextFrame" next="142" prev="140" upper="128" txtNodeIndex="161" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="76689" width="9638" height="461" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="280"/>
+    </infos>
+    <anchored>
+     <fly ptr="0x56476e2c9090" id="168" symbol="19SwFlyAtContentFrame" lower="169">
+      <infos>
+       <bounds left="8266" top="76691" width="9481" height="3004" mbFixSize="true" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+       <prtBounds left="0" top="0" width="9481" height="3004"/>
+      </infos>
+      <notxt ptr="0x56476e431440" id="169" symbol="13SwNoTextFrame" upper="168">
+       <infos>
+        <bounds left="8266" top="76691" width="9481" height="3004" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+        <prtBounds left="0" top="0" width="9481" height="3004"/>
+       </infos>
+      </notxt>
+     </fly>
+    </anchored>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22abb0" id="142" symbol="11SwTextFrame" next="143" prev="141" upper="128" txtNodeIndex="162" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="77150" width="9638" height="461" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22ad20" id="143" symbol="11SwTextFrame" next="144" prev="142" upper="128" txtNodeIndex="163" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="77611" width="9638" height="461" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22ae90" id="144" symbol="11SwTextFrame" next="145" prev="143" upper="128" txtNodeIndex="164" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="78072" width="9638" height="461" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22b000" id="145" symbol="11SwTextFrame" next="146" prev="144" upper="128" txtNodeIndex="165" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="78533" width="9638" height="461" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22b170" id="146" symbol="11SwTextFrame" next="147" prev="145" upper="128" txtNodeIndex="166" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="78994" width="9638" height="501" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="181" width="9638" height="320"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="320"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22b2e0" id="147" symbol="11SwTextFrame" next="148" prev="146" upper="128" txtNodeIndex="167" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="79495" width="9638" height="568" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="288" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22b450" id="148" symbol="11SwTextFrame" next="149" prev="147" upper="128" txtNodeIndex="168" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="80063" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22b5c0" id="149" symbol="11SwTextFrame" next="150" prev="148" upper="128" txtNodeIndex="169" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="80343" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22b730" id="150" symbol="11SwTextFrame" next="151" prev="149" upper="128" txtNodeIndex="170" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="80623" width="9638" height="560" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="560"/>
+    </infos>
+Ingresar a la url por defecto http://0.0.0.0:4000/ para revisar la documentación.    <Text nLength="30" nType="PortionType::Text" nHeight="280" nWidth="4200" Portion="Ingresar a la url por defecto "/>
+    <Text nLength="20" nType="PortionType::Text" nHeight="280" nWidth="2800" Portion="http://0.0.0.0:4000/"/>
+    <Text nLength="16" nType="PortionType::Text" nHeight="280" nWidth="2240" Portion=" para revisar la"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="Ingresar a la url por defecto http://0.0.0.0:4000/ para revisar la "/>
+    <Text nLength="14" nType="PortionType::Lay" nHeight="280" nWidth="1960" Portion="documentaci&#xF3;n."/>
+    <LineBreak nWidth="1960" Line="documentaci&#xF3;n."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22b8a0" id="151" symbol="11SwTextFrame" next="152" prev="150" upper="128" txtNodeIndex="171" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="81183" width="9638" height="280" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="280"/>
+    </infos>
+    <Text nLength="0" nType="PortionType::Para" nHeight="280"/>
+    <LineBreak/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22ba10" id="152" symbol="11SwTextFrame" next="153" prev="151" upper="128" txtNodeIndex="172" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="81463" width="9638" height="560" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="560"/>
+    </infos>
+Ingresar a la url por defecto http://0.0.0.0:4000/admin/ para cambios y edición la documentación.    <Text nLength="30" nType="PortionType::Text" nHeight="280" nWidth="4200" Portion="Ingresar a la url por defecto "/>
+    <Text nLength="26" nType="PortionType::Text" nHeight="280" nWidth="3640" Portion="http://0.0.0.0:4000/admin/"/>
+    <Text nLength="5" nType="PortionType::Text" nHeight="280" nWidth="700" Portion=" para"/>
+    <Text nLength="1" nType="PortionType::Hole" Portion=" "/>
+    <Special nLength="0" nType="PortionType::Margin" rText=""/>
+    <LineBreak nWidth="9639" Line="Ingresar a la url por defecto http://0.0.0.0:4000/admin/ para "/>
+    <Text nLength="35" nType="PortionType::Lay" nHeight="280" nWidth="4900" Portion="cambios y edici&#xF3;n la documentaci&#xF3;n."/>
+    <LineBreak nWidth="4900" Line="cambios y edici&#xF3;n la documentaci&#xF3;n."/>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22bb80" id="153" symbol="11SwTextFrame" next="154" prev="152" upper="128" txtNodeIndex="173" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="82023" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22bcf0" id="154" symbol="11SwTextFrame" next="155" prev="153" upper="128" txtNodeIndex="174" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="82299" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+   <txt ptr="0x56476e22be60" id="155" symbol="11SwTextFrame" prev="154" upper="128" txtNodeIndex="175" WritingMode="Horizontal">
+    <infos>
+     <bounds left="8181" top="82575" width="9638" height="276" mbFixSize="false" mbValidPos="true" mbValidSize="true" mbValidPrtArea="true"/>
+     <prtBounds left="0" top="0" width="9638" height="276"/>
+    </infos>
+    <Finish/>
+   </txt>
+  </body>
+ </page>
+</root>
